@@ -13,6 +13,8 @@ def main():
         weight_to_Pond = round(float(weight)*2.20462262, 2)
         print(
             f"\nAgin your weight is {weight_to_Pond}pond and your height is {height_to_Inch}inch.")
+    # in if block we specify a condition, if we got False, it goes to elif block, again we got False
+    # then we entered in the else block
     if check_more == "yes":
         inch_converter()
     elif check_more == "no":
@@ -21,5 +23,6 @@ def main():
         print("\nWrong command!\n")
 
 
+# using it to recognize that our code is a independent script or it's a module
 if __name__ == "__main__":
     main()

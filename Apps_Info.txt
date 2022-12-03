@@ -1,0 +1,11 @@
+Python Base - Scripts
+
+Concepts I worked on in every script:
+------------------------------------
+Phase 1) in this phase we just familiar with the main concepts:
+    + app_01 => Your First Python App, print
+    + app_02 => Getting user input, conditional statements, functions
+    + app_03 => try-except, while loops, float, int-float
+    + app_04 => round, functions default argument, math library
+
+Phase 2) in this phase we work on python syntax and statements deeply
