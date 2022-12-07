@@ -9,5 +9,6 @@ Phase 1) in this phase we just familiar with the main concepts:
     + app_04 => round, functions default argument, math library
     + app_05 => Python Data Types, String Biult-in Functions
     + app_06 => Dictionary, List, Tuple, Set, These Types Built-in Functions
+    + app_07 => Numeric data types Buit-in Functions
 
 Phase 2) in this phase we work on python syntax and statements deeply
