@@ -1,5 +1,7 @@
 # PythonBase_2022_Exercises
 
+* Check the "Apps_Info.txt" file to know which concepts worked on each python script.
+
 Here is my Python review exercises at 2022, some of concepts that could be learned from this repository are:
   - Python Basic-Syntax
   - Variables, Data Types, Conditionals
