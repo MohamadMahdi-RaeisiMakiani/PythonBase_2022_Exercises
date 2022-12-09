@@ -13,5 +13,7 @@ Phase 1) in this phase we just familiar with the main concepts:
     + app_08 => A Project to calculate factorail and sum of a list of number, for loop, range()
     + app_09 => More exercise about while loops
     + app_10 => Learning functions deeply, More exercise on dictionaries and lists
+    - app_11 => A simple project and a simple game to review all concepts we worked till now
+    - app_12 => Working on files in Python
 
 Phase 2) in this phase we work on python syntax and statements deeply
