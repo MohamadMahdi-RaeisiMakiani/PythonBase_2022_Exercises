@@ -54,6 +54,16 @@ input_user_name = input("Enter your name, please:\n >")
 say_hello_to_user(input_user_name)
 
 
+# We can use *args to access user give infinite arguments
+def print_three(*args):
+    # unpack the args
+    arg1, arg2, arg3 = args
+    print(f"\n > arg1: {arg1}, arg2: {arg2}, arg3: {arg3}\n")
+
+
+print_three("Hi.", "How are you?", "GoodBye!")
+
+
 # a function with using *args rule to send as many argument as we want
 def company_members_list(*member):
     the_employee_list = []
