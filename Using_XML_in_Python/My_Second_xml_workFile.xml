@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EnglishLanguage>
+English language is enabled.
+  <start>Hello</start>
+  <buy_button stuff_name="stuff 1">Water</buy_button>
+  <buy_button stuff_name="stuff 2">SodaPop</buy_button>
+  <buy_button stuff_name="stuff 3">Milk</buy_button>
+  <info_button>This is our info</info_button>
+  <exit_button>Have good day , goodbye.</exit_button>
+</EnglishLanguage>
