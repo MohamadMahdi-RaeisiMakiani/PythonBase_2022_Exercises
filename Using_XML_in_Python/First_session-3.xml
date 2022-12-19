@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- <?targetName instructions?> -->
+
+<!-- Example -->
+
+<?Application Language="English"?>
+
+<!-- Root tag -->
+<BusinessCard>
+	<name>Reza Amiri</name>
+	<phone type="home">02111111111</phone>
+	<phone type="work">02122222222</phone>
+	<phone type="mobile">09173333333</phone>
+	<email>RezaAmiri@gmail.com</email>
+	<comment>
+		This is not parsing by xml but it can 
+		parses with other programming languages.
+		<![CDATA[print ("HelloWorld")]]>
+	</comment>
+</BusinessCard>
